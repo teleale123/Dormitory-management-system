@@ -20,12 +20,6 @@ The **Dormitory Management System** is a web-based application designed to strea
 - **Student Information Management**: Track and manage student data, such as name, age, course, and contact details.
 - **Responsive Design**: The system is designed to be fully responsive, making it accessible from any device.
 
-## Demo
-
-You can view the live demo of the Dormitory Management System here:
-
-[**Dormitory Management System Demo**](http://example.com)  <!-- Replace with your actual demo link -->
-
 ## Setup Instructions
 
 ### Prerequisites
